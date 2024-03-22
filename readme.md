@@ -4,7 +4,7 @@
 ```
 Kiểm tra version node gõ: node --version
 
-Nếu chưa có node thì cài đặt môi trường node vào mày tính
+Nếu chưa có node thì cài đặt môi trường node theo link https://nodejs.org/en/download
 ```
 
 ```
